@@ -1,0 +1,23 @@
+Nguyen Trung Kien
+Hello
+This is a number : 
+This is a number : 
+This is a number : 
+This is a number : 
+This is a number : 1
+This is a number : 1
+
+This is a number : 1
+
+This is a number : 1
+
+This is a number : 1
+["1", 2, 3, 5, "bafwh"]
+This is a number : 1
+["1", 2, 3, 5, "bafwh"]
+This is a number : 1
+["1", 2, 3, 5, "bafwh"]
+This is a number : 1
+["1", 2, 3, 5, "bafwh"]
+This is a number : 1
+["1", 2, 3, 5, "bafwh"]
